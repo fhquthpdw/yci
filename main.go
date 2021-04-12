@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "yci/cmd"
+import "github.com/fhquthpdw/yci/cmd"
 
 func main() {
 	cmd.Execute()

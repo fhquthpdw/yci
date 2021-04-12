@@ -1,4 +1,4 @@
-module yci
+module github.com/fhquthpdw/yci
 
 go 1.16
 

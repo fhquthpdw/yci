@@ -25,7 +25,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"yci/internal/buildyaml"
+
+	"github.com/fhquthpdw/yci/internal/buildyaml"
 
 	"github.com/spf13/cobra"
 
